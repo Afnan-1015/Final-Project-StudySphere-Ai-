@@ -1,0 +1,8 @@
+{
+  "name": "StudySphere AI",
+  "description": "The ultimate AI-powered study ecosystem for university students with course management, smart AI tutor, assignment tracker, and deep work focus sessions.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
