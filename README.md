@@ -166,18 +166,6 @@ The AI tutor is instructed to:
 
 # How To Run
 
-```
-src/
-components/
-pages/
-assets/
-public/
-server.ts
-package.json
-```
-
----
-
 ## Installation
 
 Clone the repository
